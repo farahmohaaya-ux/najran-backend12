@@ -25,4 +25,4 @@ function requireModule(moduleKey) {
   };
 }
 
-   module.exports = { requireAuth, requireModule };
+module.exports = { requireAuth, requireModule };
